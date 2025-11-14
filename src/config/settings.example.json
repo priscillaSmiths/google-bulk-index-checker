@@ -1,0 +1,5 @@
+{
+  "requestTimeout": 10,
+  "defaultRegion": "global",
+  "exportFormats": ["json", "csv", "excel"]
+}
